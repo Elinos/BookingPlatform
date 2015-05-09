@@ -1,8 +1,6 @@
 language: CSharp
 install:
   - curl -sSL https://raw.githubusercontent.com/aspnet/Home/master/kvminstall.sh | sh && source ~/.k/kvm/kvm.sh
+  - npm install -g bower
   - kvm upgrade
   - kpm restore --no-cache
-before_script:
-  - npm install -g bower
-  - bower install
