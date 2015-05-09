@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "EndUserPortal"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-EndUserPortal-9604e988-cba7-4cb3-a8f3-dbb8e3ffc85d;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}

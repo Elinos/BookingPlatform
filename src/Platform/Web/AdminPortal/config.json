@@ -1,0 +1,10 @@
+{
+  "AppSettings": {
+    "SiteTitle": "AdminPortal"
+  },
+  "Data": {
+    "DefaultConnection": {
+      "ConnectionString": "Server=(localdb)\\mssqllocaldb;Database=aspnet5-AdminPortal-84888590-1b0c-465b-b238-6577c4aa2920;Trusted_Connection=True;MultipleActiveResultSets=true"
+    }
+  }
+}
