@@ -4,6 +4,9 @@
 # remove tracking of installed bowers packages
 src/[pP]latform/[wW]eb/*/wwwroot/lib/
 
+#remove project.lock.json
+project.lock.json
+
 # User-specific files
 *.suo
 *.user
