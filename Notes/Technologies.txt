@@ -1,0 +1,7 @@
+Hosting - Azure
+CI/CD - AppVeyor
+Code Coverage - Coveralls
+Version Control - Github
+Issue tracking - Github issues
+Task list - Waffle.io
+Prototyping - inVisionApp
