@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 14
 VisualStudioVersion = 14.0.22823.1
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AdminPortal", "Web\AdminPortal\AdminPortal.xproj", "{8219C588-34BE-455F-9B6A-5D67FB310D8C}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "AdminPortal", "src\AdminPortal\AdminPortal.xproj", "{8219C588-34BE-455F-9B6A-5D67FB310D8C}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Web", "Web", "{5B6FFBAD-7C71-4204-B017-0EEE2620FAEC}"
 EndProject
-Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "EndUserPortal", "Web\EndUserPortal\EndUserPortal.xproj", "{EE8D9F25-23EF-4A78-B9A9-BD26C1327024}"
+Project("{8BB2217D-0F2D-49D1-97BC-3654ED321F3B}") = "EndUserPortal", "src\EndUserPortal\EndUserPortal.xproj", "{EE8D9F25-23EF-4A78-B9A9-BD26C1327024}"
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Core", "Core", "{9D1B35D4-3850-4E29-B8E8-A2475BF9657E}"
 EndProject
