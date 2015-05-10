@@ -5,3 +5,5 @@ install:
   - npm install -g gulp
   - kvm upgrade
   - kpm restore --no-cache
+script:
+  - ./build.sh --quiet verify
