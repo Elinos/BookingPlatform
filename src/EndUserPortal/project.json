@@ -1,6 +1,6 @@
 ﻿{
   "webroot": "wwwroot",
-  "userSecretsId": "aspnet5-EndUserPortal-9604e988-cba7-4cb3-a8f3-dbb8e3ffc85d",
+  "userSecretsId": "aspnet5-AdminPortal-84888590-1b0c-465b-b238-6577c4aa2920",
   "version": "1.0.0-*",
 
   "dependencies": {
@@ -37,7 +37,10 @@
   },
 
   "frameworks": {
-    "aspnet50": {}
+"dnx451": {
+},
+        "dnxcore50": {
+        }
   },
 
   "exclude": [

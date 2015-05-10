@@ -37,7 +37,10 @@
   },
 
   "frameworks": {
-    "aspnet50": {}
+"dnx451": {
+},
+        "dnxcore50": {
+        }
   },
 
   "exclude": [
