@@ -6,5 +6,5 @@ install:
   - kvm upgrade
   - kpm restore --no-cache
 script:
-  - chmod a+x .build.sh
+  - chmod a+x build.sh
   - ./build.sh --quiet verify
